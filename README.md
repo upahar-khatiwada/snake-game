@@ -1,6 +1,9 @@
 # snake_game
 
-A new Flutter project.
+A simple snake game made using Flutter.
+
+# Video Demo
+https://youtu.be/9nLJCMmps6M
 
 ## Getting Started
 
